@@ -2,8 +2,6 @@
   <img src="https://cdn.prod.website-files.com/6501956b17c182c15d09b8bd/6501a06d5f2df5d50168abf6_Component%201.svg" alt="IronCloud" width="240">
 </p>
 
-<h1 align="center">IronCloud</h1>
-
 <p align="center">
   <strong>AI strategy, infrastructure, and engineering partner for secure, scalable business transformation.</strong>
 </p>
